@@ -1,5 +1,5 @@
 # Portfolio Weight Calculator
-Portfolio Weight Calculator-refer the below link for problem statement<br />
+Refer the below link for problem statement<br />
 <a href="https://gist.github.com/rprabhat/3b8cc6e47a822d63b844e3d3d0d67ea7">Portfolio Weight Calculator</a><br />
 
 
