@@ -19,7 +19,7 @@ JUNIT 4 or higher <br />
 ```
     $ git clone https://github.com/ayaonb/JavaPortfolioWeightCalculator.git <br />
 ```
-* Create jar of in the root directory of Portfolio Calculator <br />
+* Compile and create jar from the root directory of Portfolio Calculator <br />
 * Run the test case by passing the filename with the path in the command prompt. For example: <br />
 ```
      > java -jar target/PortFolioCalculator.jar [fileName] 
